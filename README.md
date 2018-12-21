@@ -15,4 +15,6 @@
   *  Audio - 8-Channel(7.1) HD Audio with Audio Boost
   *  USB Port - 6 x USB 3.1(Gen1) + 6 x USB 2.0
   *  Storage - 1 x Turbo M.2 slot, supports Intel® OptaneTM Technology 6 x SATA 6Gb/s
+* Corsair Vengeance LPX 16GB - Cost: $114.99
+  *  SPD Speed- 2133MHz. Speed Rating-PC4-21300 (2666MHz). Tested Speed-2666MHz
 
