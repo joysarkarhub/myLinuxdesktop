@@ -19,4 +19,10 @@
   *  SPD Speed- 2133MHz. Speed Rating-PC4-21300 (2666MHz). Tested Speed-2666MHz
 * WD Blue 1TB SATA 6 Gb/s 7200 RPM 64MB Cache 3.5 Inch - Cost: $47.98
   *  Interface: SATA 6.0Gb/s
+* Thermaltake Versa H15 SPCC Micro ATX Mini Tower case - Cost: $36.08
+  *  Chassis CA-1D4-00S1NN-00
+  *  H15/18 Micro ATX
+  *  1 x 120mm rear turbo fan
+* Cooler Master V750-750W Compact Fully Modular 80 Plus Gold Power Supply - Cost: 114.27
+  *  RS750-AFBAG1-US
 
