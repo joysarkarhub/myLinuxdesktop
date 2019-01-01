@@ -23,6 +23,7 @@
   *  Chassis CA-1D4-00S1NN-00
   *  H15/18 Micro ATX
   *  1 x 120mm rear turbo fan
-* Cooler Master V750-750W Compact Fully Modular 80 Plus Gold Power Supply - Cost: 114.27
+* Cooler Master V750-750W Compact Fully Modular 80 Plus Gold Power Supply - Cost: $114.27
   *  RS750-AFBAG1-US
+* TP-Link Archer T6E AC1300 WiFi network Adapter - Cost: $39.99
 
